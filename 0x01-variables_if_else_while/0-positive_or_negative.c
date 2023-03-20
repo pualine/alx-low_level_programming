@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
+#include <stdio.h>
+
+/*main - program to print whether the number stored in the variable n is positive or negative */
 
 /* betty style doc for function main goes there */
 int main(void)
